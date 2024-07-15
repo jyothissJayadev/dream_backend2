@@ -1,5 +1,5 @@
 import mongoose from "mongoose";
-const mongoDb = "mongodb://127.0.0.1:27017/";
+const mongoDb = "mongodb+srv://jyothiss3kvj:random%40123JJ@cluster0.0gpgpqu.mongodb.net/";
 const connectDb=async()=>{
    
       
