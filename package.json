@@ -1,0 +1,22 @@
+{
+  "name": "jyothiss",
+  "version": "1.0.0",
+  "description": "growth",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "jyothiss",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "moment": "^2.30.1",
+    "mongoose-sequence": "^6.0.1",
+    "moongoose": "^0.0.5",
+    "morgan": "^1.10.0",
+    "nodemon": "^3.1.4"
+  }
+}
